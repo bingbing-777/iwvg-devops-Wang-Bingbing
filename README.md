@@ -10,7 +10,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/miw-upm/iwvg-devops?color=informational)
 
 ### Estado del código
-[![DevOps](https://github.com/bingbing-777/iwvg-devops-Wang-Bingbing/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/bingbing-777/iwvg-devops-Wang-Bingbing/actions/workflows/continuous-integration.yml)
+[![DevOps](https://github.com/bingbing-777/iwvg-devops-wang-bingbing/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/bingbing-777/iwvg-devops-wang-bingbing/actions/workflows/continuous-integration.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bingbing-777_iwvg-devops-Wang-Bingbing&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bingbing-777_iwvg-devops-Wang-Bingbing)
 
 
