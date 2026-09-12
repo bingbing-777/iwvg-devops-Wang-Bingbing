@@ -11,7 +11,7 @@
 
 ### Estado del código
 [![DevOps](https://github.com/bingbing-777/iwvg-devops-wang-bingbing/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/bingbing-777/iwvg-devops-wang-bingbing/actions/workflows/continuous-integration.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bingbing-777_iwvg-devops-Wang-Bingbing&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bingbing-777_iwvg-devops-Wang-Bingbing)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bingbing-777_iwvg-devops-wang-bingbing&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bingbing-777_iwvg-devops-wang-bingbing)
 
 
 
