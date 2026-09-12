@@ -11,17 +11,48 @@ public class UserDatabase {
 
     private final List<User> users;
 
-    public UserDatabase(){
+    public UserDatabase() {
+
         users = new ArrayList<>();
-        users.add(new User(1L, "Ana", "ana@gmail.com"));
-        users.add(new User(2L, "Carlos", "carlos@gmail.com"));
-        users.add(new User(3L, "Laura", "laura@gmail.com"));
-        users.add(new User(4L, "Pedro", "pedro@gmail.com"));
-        users.add(new User(5L, "Maria", "maria@gmail.com"));
+
+        users.add(new User(
+                1L,
+                "Anna",
+                "Smith",
+                "anna@gmail.com",
+                "12345678A",
+                "Main Street 10",
+                "Madrid",
+                "Madrid",
+                "28001"
+        ));
+
+        users.add(new User(
+                2L,
+                "Charles",
+                "Brown",
+                "charles@gmail.com",
+                "87654321B",
+                "Second Street 20",
+                "Madrid",
+                "Madrid",
+                "28002"
+        ));
+
+        users.add(new User(
+                3L,
+                "Laura",
+                "Johnson",
+                "laura@gmail.com",
+                "11223344C",
+                "Third Street 30",
+                "Barcelona",
+                "Barcelona",
+                "08001"
+        ));
     }
 
     public User findById(Long id) {
-
         for (User user : users) {
             if (user.getId().equals(id)) {
                 return user;
